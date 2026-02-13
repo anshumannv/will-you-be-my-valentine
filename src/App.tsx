@@ -19,7 +19,7 @@ export default function Page() {
       "bro DTM now just say yes",
       "What if i sing barbaad now????",
       "oiiiiiiiiiiiiiiiiiii",
-      "I buy u blondie matcha now click yes,
+      "I buy u blondie matcha now click yes",
       "il sell u now",
       "GOING ONCE",
       "GOING TWICE",
